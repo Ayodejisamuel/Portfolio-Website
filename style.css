@@ -55,8 +55,8 @@ html {
 }
 
 .profileimg {
-  height: 20rem;
-  width: 20rem;
+  height: 25rem;
+  width: 25rem;
   border-radius: 50%;
   object-fit: cover;
   border: 0.4rem dotted #e41c6f;
