@@ -63,7 +63,7 @@ html {
 
 .profileimg {
   height: 30rem;
-  width:3rem;
+  width:30rem;
   border-radius: 50%;
   object-fit: cover;
   border: 0.4rem dotted #e41c6f;
