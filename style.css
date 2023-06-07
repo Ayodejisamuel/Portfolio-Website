@@ -1,4 +1,4 @@
- /** @format */
+/** @format */
 /* Removing default styles */
 * {
   padding: 0;
@@ -63,7 +63,7 @@ html {
 
 .profileimg {
   height: 30rem;
-  width:30rem;
+  width:3rem;
   border-radius: 50%;
   object-fit: cover;
   border: 0.4rem dotted #e41c6f;
@@ -116,6 +116,8 @@ html {
   z-index: 200;
   box-shadow: 0.2rem, 0.2rem 0.5rem #555;
 }
+
+
 
 .sticky {
   position: fixed;
@@ -180,7 +182,7 @@ html {
 
 .progressbar {
   width: 30rem;
-  height: 3rem;
+  height: 2.5rem;
   border-radius: 0.3rem;
   box-shadow: 0.1rem 0.1rem 0.5rem #555;
   background-color: #ccc;
@@ -191,7 +193,7 @@ html {
   padding: 0.5rem;
   padding-left: 1rem;
   color: #fff;
-  font-size: 2rem;
+  font-size: 1.5rem;
   font-weight: 700;
 }
 
@@ -281,12 +283,12 @@ html {
 
 .project-img {
   width:30rem;
-
   background-size: cover;
   transition: opacity 0.5s;
 }
 
 .project {
+
   margin: 1rem 2rem;
   position: relative;
   display: flex;
@@ -297,6 +299,7 @@ html {
   overflow: hidden;
   transition: box-shadow, 0.5s;
   position: relative;
+
 }
 
 .project:hover {
@@ -347,13 +350,13 @@ html {
 }
 
 .project:hover .project-link {
-  bottom: 3rem;
-  left: 6rem;
+  bottom: 4rem;
+  left: 11rem;
 }
 
 .project:hover .project-text {
-  top: 2.5rem;
-  left: 1rem;
+  top: 4rem;
+  left: 6rem;
 }
 /* End Of Section 3 */
 
