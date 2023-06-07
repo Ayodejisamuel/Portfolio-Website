@@ -195,7 +195,7 @@ html {
 }
 
 .progress-percent {
-  width: 95%;
+  width: 100%;
   height: 100%;
   background-color: #e41c6f;
 }
@@ -211,9 +211,13 @@ html {
   height: 100%;
   background-color: #e41c6f;
 }
-
-.progress-percenti {
+.progress-percentii {
   width: 90%;
+  height: 100%;
+  background-color: #e41c6f;
+}
+.progress-percenti {
+  width: 95%;
   height: 100%;
   background-color: #e41c6f;
 }
