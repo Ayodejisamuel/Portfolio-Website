@@ -479,11 +479,11 @@ a i {
   }
 }
 @media (min-width 1000px) {
- .section-1 h1 {
+ .section1 h1 {
   font-size: 4rem;
  }
  
- .section-1 img {
+ .section1 img {
   width: 35rem;
   height: 35rem;
 }
