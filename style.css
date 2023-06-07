@@ -478,7 +478,15 @@ a i {
     height: 40vh;
   }
 }
-
+@media (min-width 1000px) {
+ .section-1 h1 {
+  font-size: 4rem;
+ }
+ 
+ .section-1 img {
+  width: 35rem;
+  height: 35rem;
+}
 @media (max-width 600px) {
   .section1-heading {
     font-size: 3.7rem;
@@ -493,5 +501,6 @@ a i {
     width: 40rem;
   }
 }
+
 
 /* End Of Responsive */
