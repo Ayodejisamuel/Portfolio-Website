@@ -487,6 +487,8 @@ a i {
   width: 35rem;
   height: 35rem;
 }
+ 
+}
 @media (max-width 600px) {
   .section1-heading {
     font-size: 3.7rem;
